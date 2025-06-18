@@ -1,0 +1,33 @@
+{
+    "course_title": "Tools in Data Science - Jan 2025",
+    "outline": [
+        {
+            "week": 1,
+            "title": "Introduction to Tools",
+            "lessons": [
+                {
+                    "title": "Course Overview",
+                    "content": "This lesson introduces the course structure, learning outcomes, and tools required."
+                },
+                {
+                    "title": "Introduction to Linux",
+                    "content": "Basic Linux commands and how to use the terminal effectively."
+                }
+            ]
+        },
+        {
+            "week": 2,
+            "title": "Python Essentials",
+            "lessons": [
+                {
+                    "title": "Python Basics",
+                    "content": "Variables, data types, conditionals, loops, and functions in Python."
+                },
+                {
+                    "title": "Working with Libraries",
+                    "content": "Introduction to NumPy and Pandas for data manipulation."
+                }
+            ]
+        }
+    ]
+}

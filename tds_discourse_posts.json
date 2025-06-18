@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939",
+    "title": "GA5 Question 8 Clarification",
+    "text": "You must use `gpt‑3.5‑turbo‑0125`, even if the AI proxy only supports `gpt‑4o‑mini`. Use the OpenAI API directly for this question."
+  },
+  {
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939/3",
+    "title": "Clarification on tokenizer",
+    "text": "Just use a tokenizer to get the number of tokens and multiply that by the given rate."
+  },
+  {
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tools-in-data-science-collaboration/154800",
+    "title": "Tools in Data Science Collaboration",
+    "text": "We covered tools like Git, Python, Jupyter, Pandas, and Bash scripting in the course content and lectures from Jan 2025."
+  }
+]
